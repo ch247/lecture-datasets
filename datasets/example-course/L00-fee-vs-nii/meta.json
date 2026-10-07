@@ -1,0 +1,14 @@
+{
+  "id": "example-course-L00-fee-vs-nii",
+  "course": "example-course",
+  "lecture": "L00 – Pipeline test",
+  "description": "Illustrative revenue mix of a fictional bank; used to test the repo → Datawrapper pipeline.",
+  "source_name": "Illustrative data",
+  "source_url": "https://github.com/ch247/lecture-datasets",
+  "license": "Own illustrative data",
+  "retrieved": "2026-09-22",
+  "prepared_by": "Chris Holfeld",
+  "sensitivity": "public",
+  "update_mode": "linked",
+  "datawrapper_chart_id": ""
+}

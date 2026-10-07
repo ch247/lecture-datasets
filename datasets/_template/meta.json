@@ -1,0 +1,14 @@
+{
+  "id": "course-Lnn-slug",
+  "course": "course-slug",
+  "lecture": "Lnn – Lecture title",
+  "description": "What the data shows, in one sentence.",
+  "source_name": "Publisher / institution",
+  "source_url": "https://",
+  "license": "e.g. CC BY 4.0 / public statistics / own illustrative data",
+  "retrieved": "YYYY-MM-DD",
+  "prepared_by": "Chris Holfeld",
+  "sensitivity": "public",
+  "update_mode": "static",
+  "datawrapper_chart_id": ""
+}

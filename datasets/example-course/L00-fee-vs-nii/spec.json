@@ -1,0 +1,15 @@
+{
+  "title": "Fee income overtakes net interest income",
+  "type": "d3-lines",
+  "data_file": "data.csv",
+  "intro": "Revenue by source of a fictional bank, 2019–2026, EUR bn",
+  "notes": "Illustrative data for teaching purposes.",
+  "source_name": "Illustrative data",
+  "number_append": " bn",
+  "language": "en-GB",
+  "colors": {
+    "Fee income": "#c8412e",
+    "Net interest income": "#999999",
+    "Trading income": "#cccccc"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Action title: the claim this chart proves",
+  "type": "d3-lines",
+  "data_file": "data.csv",
+  "intro": "Scope, unit, period",
+  "notes": "",
+  "source_name": "Publisher / institution",
+  "source_url": "https://",
+  "language": "en-GB"
+}
