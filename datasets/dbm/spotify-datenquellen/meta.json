@@ -1,0 +1,19 @@
+{
+  "id": "dbm-spotify-datenquellen",
+  "course": "dbm",
+  "lecture": "Fallstudie Spotify – Speed beats free",
+  "prepared_by": "Chris Holfeld",
+  "sensitivity": "public",
+  "update_mode": "static",
+  "datawrapper_chart_id": "",
+  "description": "Woher Spotifys Desktop-Client 2009/2010 Audiodaten bezog: Cache, Peer-to-Peer, eigene Server.",
+  "source_name": "Kreitz & Niemelä (2010), Spotify P2P-Paper; zitiert nach Strategy Breakdowns (2026)",
+  "source_url": "https://www.csc.kth.se/~gkreitz/spotify-p2p10",
+  "license": "Zitat aus wissenschaftlicher Veröffentlichung",
+  "retrieved": "2026-10-08",
+  "as_of": "2010-12-31",
+  "period": "2010",
+  "refresh": {
+    "cadence": "static"
+  }
+}

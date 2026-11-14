@@ -1,0 +1,19 @@
+{
+  "id": "dbm-spotify-umverteilung-genres",
+  "course": "dbm",
+  "lecture": "Fallstudie Spotify – Speed beats free",
+  "prepared_by": "Chris Holfeld",
+  "sensitivity": "public",
+  "update_mode": "static",
+  "datawrapper_chart_id": "",
+  "description": "Simulierte Umverteilung der Spotify-Ausschüttungen in Deutschland je Genre beim Wechsel zu user-centric.",
+  "source_name": "Meyn et al. (2022), JAMS; Pressemitteilung Universität Hamburg (2022)",
+  "source_url": "https://www.uni-hamburg.de/newsroom/presse/2022/pm25.html",
+  "license": "Zitat aus wissenschaftlicher Veröffentlichung",
+  "retrieved": "2026-10-08",
+  "as_of": "2019-02-28",
+  "period": "Panel Jan./Feb. 2019",
+  "refresh": {
+    "cadence": "static"
+  }
+}

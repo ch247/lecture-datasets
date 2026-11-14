@@ -1,0 +1,19 @@
+{
+  "data_file": "data.csv",
+  "language": "de-DE",
+  "title": "Fast 9 von 10 Euro kommen aus Premium-Abos",
+  "intro": "Spotify, Umsatz nach Segment, Geschäftsjahr",
+  "source_name": "Spotify, Shareholder Deck Q4 2025 (Feb. 2026)",
+  "source_url": "https://investors.spotify.com",
+  "deck": {
+    "kind": "split",
+    "accent": "#1ed760",
+    "highlight": "Premium",
+    "decimals": 0,
+    "colors": {
+      "Werbung": "#575e62"
+    },
+    "width": 824,
+    "height": 122
+  }
+}

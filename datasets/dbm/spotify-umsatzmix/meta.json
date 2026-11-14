@@ -1,0 +1,20 @@
+{
+  "id": "dbm-spotify-umsatzmix",
+  "course": "dbm",
+  "lecture": "Fallstudie Spotify – Speed beats free",
+  "prepared_by": "Chris Holfeld",
+  "sensitivity": "public",
+  "update_mode": "static",
+  "datawrapper_chart_id": "",
+  "description": "Spotify Umsatz nach Segment (Premium, Werbung), Mrd. €; Anteile werden auf der Folie berechnet.",
+  "source_name": "Spotify, Shareholder Deck Q4 2025 (Feb. 2026)",
+  "source_url": "https://investors.spotify.com",
+  "license": "Unternehmensangaben (Investor Relations)",
+  "retrieved": "2026-10-08",
+  "as_of": "2025-12-31",
+  "period": "2025",
+  "refresh": {
+    "cadence": "annual",
+    "source_hint": "Spotify Shareholder Deck Q4 (erscheint Anfang Februar), Gewinn- und Verlustrechnung: Revenue Premium / Ad-Supported, Cost of revenue, Gross profit, R&D, Sales and marketing, General and administrative, Operating income. source_name auf das neue Deck anpassen."
+  }
+}

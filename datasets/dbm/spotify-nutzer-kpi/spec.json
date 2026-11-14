@@ -1,0 +1,16 @@
+{
+  "data_file": "data.csv",
+  "language": "de-DE",
+  "title": "290 Mio. von 751 Mio. Nutzern zahlen",
+  "intro": "Spotify, Nutzer zum Quartalsende, Mio.",
+  "source_name": "Spotify, Shareholder Deck Q4 2025 (Feb. 2026)",
+  "source_url": "https://investors.spotify.com",
+  "deck": {
+    "kind": "kpi",
+    "layout": "lead",
+    "accent": "#1ed760",
+    "highlight": "zahlen für Premium",
+    "width": 824,
+    "height": 376
+  }
+}
