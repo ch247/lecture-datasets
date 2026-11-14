@@ -1,0 +1,19 @@
+{
+  "id": "dbm-spotify-konzerte",
+  "course": "dbm",
+  "lecture": "Fallstudie Spotify – Speed beats free",
+  "prepared_by": "Chris Holfeld",
+  "sensitivity": "public",
+  "update_mode": "static",
+  "datawrapper_chart_id": "",
+  "description": "Panelstudie Deutschland: Änderung der Zahlungsbereitschaft für Konzerte nach Abo-Wechsel bei Musikstreaming.",
+  "source_name": "Seifert et al. (2023), JIM; Meldung Universität Hamburg (2024)",
+  "source_url": "https://uni-hamburg.de/newsroom/forschung/2024/0118-musikstreaming-konzerte.html",
+  "license": "Zitat aus wissenschaftlicher Veröffentlichung",
+  "retrieved": "2026-10-08",
+  "as_of": "2021-06-30",
+  "period": "Panel 2018/19 bis 2021",
+  "refresh": {
+    "cadence": "static"
+  }
+}

@@ -1,0 +1,9 @@
+source,target,value
+Premium,Umsatz,15.35
+Werbung,Umsatz,1.84
+Umsatz,Bruttogewinn,5.50
+Umsatz,Umsatzkosten,11.69
+Bruttogewinn,Op. Ergebnis,2.20
+Bruttogewinn,F&E,1.39
+Bruttogewinn,Marketing/Vertrieb,1.43
+Bruttogewinn,Verwaltung,0.48

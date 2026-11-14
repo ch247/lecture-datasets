@@ -1,0 +1,19 @@
+{
+  "data_file": "data.csv",
+  "language": "de-DE",
+  "title": "Über 90 % der Audiodaten kamen nicht von Spotifys Servern",
+  "intro": "Anteil der ausgelieferten Audiodaten nach Quelle, %",
+  "source_name": "Kreitz & Niemelä (2010), via Strategy Breakdowns (2026)",
+  "source_url": "https://www.csc.kth.se/~gkreitz/spotify-p2p10",
+  "number_append": "%",
+  "deck": {
+    "kind": "split",
+    "accent": "#1ed760",
+    "highlight": "Spotify-Server",
+    "decimals": 1,
+    "theme": "dark",
+    "background": "#191414",
+    "width": 1728,
+    "height": 140
+  }
+}

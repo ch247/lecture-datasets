@@ -1,0 +1,19 @@
+{
+  "data_file": "data.csv",
+  "language": "de-DE",
+  "title": "Premium-Abos erhöhen die Ausgaben für Konzerte",
+  "type": "d3-bars",
+  "intro": "Veränderung der Zahlungsbereitschaft für Konzerte in den ersten 6 Monaten nach dem Abo-Wechsel, € pro Nutzer",
+  "source_name": "Seifert et al. (2023), Journal of Interactive Marketing",
+  "source_url": "https://uni-hamburg.de/newsroom/forschung/2024/0118-musikstreaming-konzerte.html",
+  "number_append": " €",
+  "deck": {
+    "kind": "bars",
+    "accent": "#1ed760",
+    "unit": "€",
+    "decimals": 1,
+    "font_size": 27,
+    "width": 1164,
+    "height": 276
+  }
+}

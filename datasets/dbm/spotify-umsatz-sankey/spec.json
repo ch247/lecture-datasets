@@ -1,0 +1,24 @@
+{
+  "data_file": "data.csv",
+  "language": "de-DE",
+  "title": "Von 17,2 Mrd. € Umsatz bleiben 2,2 Mrd. €",
+  "intro": "Spotify, Geschäftsjahr, Mrd. €, IFRS",
+  "source_name": "Spotify, Shareholder Deck Q4 2025 (Feb. 2026)",
+  "source_url": "https://investors.spotify.com",
+  "aria_description": "Sankey-Diagramm: Premium- und Werbeumsatz ergeben den Umsatz; davon gehen Umsatzkosten ab, der Bruttogewinn teilt sich in F&E, Marketing/Vertrieb, Verwaltung und operatives Ergebnis.",
+  "deck": {
+    "kind": "sankey",
+    "accent": "#1ed760",
+    "unit": "Mrd. €",
+    "decimals": 2,
+    "width": 1728,
+    "height": 560,
+    "highlight": [
+      "Premium",
+      "Werbung",
+      "Umsatz",
+      "Bruttogewinn",
+      "Op. Ergebnis"
+    ]
+  }
+}

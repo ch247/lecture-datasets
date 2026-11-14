@@ -1,0 +1,18 @@
+{
+  "data_file": "data.csv",
+  "language": "de-DE",
+  "title": "User-centric verschiebt Geld von Hip-Hop zu Rock, Metal und Klassik",
+  "type": "d3-bars",
+  "intro": "Spotify Deutschland, Veränderung beim Wechsel von pro rata zu user-centric, Mio. € pro Jahr",
+  "source_name": "Meyn et al. (2022), Journal of the Academy of Marketing Science",
+  "source_url": "https://www.uni-hamburg.de/newsroom/presse/2022/pm25.html",
+  "deck": {
+    "kind": "bars",
+    "accent": "#1ed760",
+    "decimals": 0,
+    "neg_label": "verliert",
+    "pos_label": "gewinnt",
+    "width": 1104,
+    "height": 424
+  }
+}
